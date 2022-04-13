@@ -1,5 +1,7 @@
 USAGE:
 
+Designed to be run on Ubuntu 16.04 with Python 2.7.
+
 Type the command “python WebObject.py” followed by the URL or destination IP
 address. Port number can also be specified by appending :port# to the IP address or
 hostname. If given two arguments, the first must be the destination IP address and the
